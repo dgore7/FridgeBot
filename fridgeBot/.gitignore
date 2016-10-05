@@ -1,3 +1,5 @@
 ﻿.vscode
 APIKeys.cs
 Web.config
+Web.Debug.config
+Web.Release.config
