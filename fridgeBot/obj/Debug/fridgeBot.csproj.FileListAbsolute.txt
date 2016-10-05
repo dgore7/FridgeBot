@@ -49,3 +49,172 @@ C:\Users\keleung\documents\visual studio 2015\Projects\fridgeBot\fridgeBot\bin\M
 C:\Users\keleung\documents\visual studio 2015\Projects\fridgeBot\fridgeBot\bin\System.Net.Http.Extensions.xml
 C:\Users\keleung\documents\visual studio 2015\Projects\fridgeBot\fridgeBot\bin\System.Net.Http.Primitives.xml
 C:\Users\keleung\documents\visual studio 2015\Projects\fridgeBot\fridgeBot\obj\Debug\fridgeBot.csproj.App.config
+C:\Users\keleung\Documents\Visual Studio 2015\Projects\FridgeBot\fridgeBot\bin\Mono.HttpUtility.dll
+C:\Users\keleung\documents\visual studio 2015\Projects\fridgeBot\fridgeBot\bin\Microsoft.Bot.Connector.DirectLine.dll
+C:\Users\Kevin Leung\OneDrive\Documents\Visual Studio 2015\Projects\Microsoft\TE Projects\FridgeBot\fridgeBot\bin\Bot Application1.dll.config
+C:\Users\Kevin Leung\OneDrive\Documents\Visual Studio 2015\Projects\Microsoft\TE Projects\FridgeBot\fridgeBot\bin\Bot Application1.dll
+C:\Users\Kevin Leung\OneDrive\Documents\Visual Studio 2015\Projects\Microsoft\TE Projects\FridgeBot\fridgeBot\bin\Bot Application1.pdb
+C:\Users\Kevin Leung\OneDrive\Documents\Visual Studio 2015\Projects\Microsoft\TE Projects\FridgeBot\fridgeBot\bin\Autofac.dll
+C:\Users\Kevin Leung\OneDrive\Documents\Visual Studio 2015\Projects\Microsoft\TE Projects\FridgeBot\fridgeBot\bin\Chronic.dll
+C:\Users\Kevin Leung\OneDrive\Documents\Visual Studio 2015\Projects\Microsoft\TE Projects\FridgeBot\fridgeBot\bin\Microsoft.Bot.Builder.dll
+C:\Users\Kevin Leung\OneDrive\Documents\Visual Studio 2015\Projects\Microsoft\TE Projects\FridgeBot\fridgeBot\bin\Microsoft.Bot.Connector.DirectLine.dll
+C:\Users\Kevin Leung\OneDrive\Documents\Visual Studio 2015\Projects\Microsoft\TE Projects\FridgeBot\fridgeBot\bin\Microsoft.Bot.Connector.dll
+C:\Users\Kevin Leung\OneDrive\Documents\Visual Studio 2015\Projects\Microsoft\TE Projects\FridgeBot\fridgeBot\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Users\Kevin Leung\OneDrive\Documents\Visual Studio 2015\Projects\Microsoft\TE Projects\FridgeBot\fridgeBot\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\Kevin Leung\OneDrive\Documents\Visual Studio 2015\Projects\Microsoft\TE Projects\FridgeBot\fridgeBot\bin\Microsoft.Threading.Tasks.dll
+C:\Users\Kevin Leung\OneDrive\Documents\Visual Studio 2015\Projects\Microsoft\TE Projects\FridgeBot\fridgeBot\bin\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\Kevin Leung\OneDrive\Documents\Visual Studio 2015\Projects\Microsoft\TE Projects\FridgeBot\fridgeBot\bin\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\Kevin Leung\OneDrive\Documents\Visual Studio 2015\Projects\Microsoft\TE Projects\FridgeBot\fridgeBot\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\Kevin Leung\OneDrive\Documents\Visual Studio 2015\Projects\Microsoft\TE Projects\FridgeBot\fridgeBot\bin\Mono.HttpUtility.dll
+C:\Users\Kevin Leung\OneDrive\Documents\Visual Studio 2015\Projects\Microsoft\TE Projects\FridgeBot\fridgeBot\bin\Newtonsoft.Json.dll
+C:\Users\Kevin Leung\OneDrive\Documents\Visual Studio 2015\Projects\Microsoft\TE Projects\FridgeBot\fridgeBot\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Kevin Leung\OneDrive\Documents\Visual Studio 2015\Projects\Microsoft\TE Projects\FridgeBot\fridgeBot\bin\System.Net.Http.Extensions.dll
+C:\Users\Kevin Leung\OneDrive\Documents\Visual Studio 2015\Projects\Microsoft\TE Projects\FridgeBot\fridgeBot\bin\System.Net.Http.Formatting.dll
+C:\Users\Kevin Leung\OneDrive\Documents\Visual Studio 2015\Projects\Microsoft\TE Projects\FridgeBot\fridgeBot\bin\System.Net.Http.Primitives.dll
+C:\Users\Kevin Leung\OneDrive\Documents\Visual Studio 2015\Projects\Microsoft\TE Projects\FridgeBot\fridgeBot\bin\System.Web.Http.dll
+C:\Users\Kevin Leung\OneDrive\Documents\Visual Studio 2015\Projects\Microsoft\TE Projects\FridgeBot\fridgeBot\bin\System.Web.Http.WebHost.dll
+C:\Users\Kevin Leung\OneDrive\Documents\Visual Studio 2015\Projects\Microsoft\TE Projects\FridgeBot\fridgeBot\bin\unirest-net.dll
+C:\Users\Kevin Leung\OneDrive\Documents\Visual Studio 2015\Projects\Microsoft\TE Projects\FridgeBot\fridgeBot\bin\Autofac.xml
+C:\Users\Kevin Leung\OneDrive\Documents\Visual Studio 2015\Projects\Microsoft\TE Projects\FridgeBot\fridgeBot\bin\Microsoft.Bot.Builder.xml
+C:\Users\Kevin Leung\OneDrive\Documents\Visual Studio 2015\Projects\Microsoft\TE Projects\FridgeBot\fridgeBot\bin\Microsoft.Bot.Connector.xml
+C:\Users\Kevin Leung\OneDrive\Documents\Visual Studio 2015\Projects\Microsoft\TE Projects\FridgeBot\fridgeBot\bin\Microsoft.IdentityModel.Protocol.Extensions.pdb
+C:\Users\Kevin Leung\OneDrive\Documents\Visual Studio 2015\Projects\Microsoft\TE Projects\FridgeBot\fridgeBot\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\Kevin Leung\OneDrive\Documents\Visual Studio 2015\Projects\Microsoft\TE Projects\FridgeBot\fridgeBot\bin\Microsoft.Rest.ClientRuntime.xml
+C:\Users\Kevin Leung\OneDrive\Documents\Visual Studio 2015\Projects\Microsoft\TE Projects\FridgeBot\fridgeBot\bin\Microsoft.Threading.Tasks.xml
+C:\Users\Kevin Leung\OneDrive\Documents\Visual Studio 2015\Projects\Microsoft\TE Projects\FridgeBot\fridgeBot\bin\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\Kevin Leung\OneDrive\Documents\Visual Studio 2015\Projects\Microsoft\TE Projects\FridgeBot\fridgeBot\bin\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\Kevin Leung\OneDrive\Documents\Visual Studio 2015\Projects\Microsoft\TE Projects\FridgeBot\fridgeBot\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\Kevin Leung\OneDrive\Documents\Visual Studio 2015\Projects\Microsoft\TE Projects\FridgeBot\fridgeBot\bin\Newtonsoft.Json.xml
+C:\Users\Kevin Leung\OneDrive\Documents\Visual Studio 2015\Projects\Microsoft\TE Projects\FridgeBot\fridgeBot\bin\System.IdentityModel.Tokens.Jwt.pdb
+C:\Users\Kevin Leung\OneDrive\Documents\Visual Studio 2015\Projects\Microsoft\TE Projects\FridgeBot\fridgeBot\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Kevin Leung\OneDrive\Documents\Visual Studio 2015\Projects\Microsoft\TE Projects\FridgeBot\fridgeBot\bin\System.Net.Http.Extensions.xml
+C:\Users\Kevin Leung\OneDrive\Documents\Visual Studio 2015\Projects\Microsoft\TE Projects\FridgeBot\fridgeBot\bin\System.Net.Http.Formatting.xml
+C:\Users\Kevin Leung\OneDrive\Documents\Visual Studio 2015\Projects\Microsoft\TE Projects\FridgeBot\fridgeBot\bin\System.Net.Http.Primitives.xml
+C:\Users\Kevin Leung\OneDrive\Documents\Visual Studio 2015\Projects\Microsoft\TE Projects\FridgeBot\fridgeBot\bin\System.Web.Http.xml
+C:\Users\Kevin Leung\OneDrive\Documents\Visual Studio 2015\Projects\Microsoft\TE Projects\FridgeBot\fridgeBot\bin\System.Web.Http.WebHost.xml
+C:\Users\Kevin Leung\OneDrive\Documents\Visual Studio 2015\Projects\Microsoft\TE Projects\FridgeBot\fridgeBot\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Users\Kevin Leung\OneDrive\Documents\Visual Studio 2015\Projects\Microsoft\TE Projects\FridgeBot\fridgeBot\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Users\Kevin Leung\OneDrive\Documents\Visual Studio 2015\Projects\Microsoft\TE Projects\FridgeBot\fridgeBot\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Users\Kevin Leung\OneDrive\Documents\Visual Studio 2015\Projects\Microsoft\TE Projects\FridgeBot\fridgeBot\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Users\Kevin Leung\OneDrive\Documents\Visual Studio 2015\Projects\Microsoft\TE Projects\FridgeBot\fridgeBot\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Users\Kevin Leung\OneDrive\Documents\Visual Studio 2015\Projects\Microsoft\TE Projects\FridgeBot\fridgeBot\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Users\Kevin Leung\OneDrive\Documents\Visual Studio 2015\Projects\Microsoft\TE Projects\FridgeBot\fridgeBot\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Users\Kevin Leung\OneDrive\Documents\Visual Studio 2015\Projects\Microsoft\TE Projects\FridgeBot\fridgeBot\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Users\Kevin Leung\OneDrive\Documents\Visual Studio 2015\Projects\Microsoft\TE Projects\FridgeBot\fridgeBot\obj\Debug\fridgeBot.csproj.App.config
+C:\Users\Kevin Leung\OneDrive\Documents\Visual Studio 2015\Projects\Microsoft\TE Projects\FridgeBot\fridgeBot\obj\Debug\fridgeBot.csprojResolveAssemblyReference.cache
+C:\Users\Kevin Leung\OneDrive\Documents\Visual Studio 2015\Projects\Microsoft\TE Projects\FridgeBot\fridgeBot\obj\Debug\Bot Application1.dll
+C:\Users\Kevin Leung\OneDrive\Documents\Visual Studio 2015\Projects\Microsoft\TE Projects\FridgeBot\fridgeBot\obj\Debug\Bot Application1.pdb
+C:\Users\keleung\OneDrive\Documents\Visual Studio 2015\Projects\Microsoft\TE Projects\FridgeBot\fridgeBot\bin\Bot Application1.dll.config
+C:\Users\keleung\OneDrive\Documents\Visual Studio 2015\Projects\Microsoft\TE Projects\FridgeBot\fridgeBot\bin\Bot Application1.dll
+C:\Users\keleung\OneDrive\Documents\Visual Studio 2015\Projects\Microsoft\TE Projects\FridgeBot\fridgeBot\bin\Bot Application1.pdb
+C:\Users\keleung\OneDrive\Documents\Visual Studio 2015\Projects\Microsoft\TE Projects\FridgeBot\fridgeBot\bin\Autofac.dll
+C:\Users\keleung\OneDrive\Documents\Visual Studio 2015\Projects\Microsoft\TE Projects\FridgeBot\fridgeBot\bin\Chronic.dll
+C:\Users\keleung\OneDrive\Documents\Visual Studio 2015\Projects\Microsoft\TE Projects\FridgeBot\fridgeBot\bin\Microsoft.Bot.Builder.dll
+C:\Users\keleung\OneDrive\Documents\Visual Studio 2015\Projects\Microsoft\TE Projects\FridgeBot\fridgeBot\bin\Microsoft.Bot.Connector.DirectLine.dll
+C:\Users\keleung\OneDrive\Documents\Visual Studio 2015\Projects\Microsoft\TE Projects\FridgeBot\fridgeBot\bin\Microsoft.Bot.Connector.dll
+C:\Users\keleung\OneDrive\Documents\Visual Studio 2015\Projects\Microsoft\TE Projects\FridgeBot\fridgeBot\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Users\keleung\OneDrive\Documents\Visual Studio 2015\Projects\Microsoft\TE Projects\FridgeBot\fridgeBot\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\keleung\OneDrive\Documents\Visual Studio 2015\Projects\Microsoft\TE Projects\FridgeBot\fridgeBot\bin\Microsoft.Threading.Tasks.dll
+C:\Users\keleung\OneDrive\Documents\Visual Studio 2015\Projects\Microsoft\TE Projects\FridgeBot\fridgeBot\bin\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\keleung\OneDrive\Documents\Visual Studio 2015\Projects\Microsoft\TE Projects\FridgeBot\fridgeBot\bin\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\keleung\OneDrive\Documents\Visual Studio 2015\Projects\Microsoft\TE Projects\FridgeBot\fridgeBot\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\keleung\OneDrive\Documents\Visual Studio 2015\Projects\Microsoft\TE Projects\FridgeBot\fridgeBot\bin\Mono.HttpUtility.dll
+C:\Users\keleung\OneDrive\Documents\Visual Studio 2015\Projects\Microsoft\TE Projects\FridgeBot\fridgeBot\bin\Newtonsoft.Json.dll
+C:\Users\keleung\OneDrive\Documents\Visual Studio 2015\Projects\Microsoft\TE Projects\FridgeBot\fridgeBot\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\keleung\OneDrive\Documents\Visual Studio 2015\Projects\Microsoft\TE Projects\FridgeBot\fridgeBot\bin\System.Net.Http.Extensions.dll
+C:\Users\keleung\OneDrive\Documents\Visual Studio 2015\Projects\Microsoft\TE Projects\FridgeBot\fridgeBot\bin\System.Net.Http.Formatting.dll
+C:\Users\keleung\OneDrive\Documents\Visual Studio 2015\Projects\Microsoft\TE Projects\FridgeBot\fridgeBot\bin\System.Net.Http.Primitives.dll
+C:\Users\keleung\OneDrive\Documents\Visual Studio 2015\Projects\Microsoft\TE Projects\FridgeBot\fridgeBot\bin\System.Web.Http.dll
+C:\Users\keleung\OneDrive\Documents\Visual Studio 2015\Projects\Microsoft\TE Projects\FridgeBot\fridgeBot\bin\System.Web.Http.WebHost.dll
+C:\Users\keleung\OneDrive\Documents\Visual Studio 2015\Projects\Microsoft\TE Projects\FridgeBot\fridgeBot\bin\unirest-net.dll
+C:\Users\keleung\OneDrive\Documents\Visual Studio 2015\Projects\Microsoft\TE Projects\FridgeBot\fridgeBot\bin\Autofac.xml
+C:\Users\keleung\OneDrive\Documents\Visual Studio 2015\Projects\Microsoft\TE Projects\FridgeBot\fridgeBot\bin\Microsoft.Bot.Builder.xml
+C:\Users\keleung\OneDrive\Documents\Visual Studio 2015\Projects\Microsoft\TE Projects\FridgeBot\fridgeBot\bin\Microsoft.Bot.Connector.xml
+C:\Users\keleung\OneDrive\Documents\Visual Studio 2015\Projects\Microsoft\TE Projects\FridgeBot\fridgeBot\bin\Microsoft.IdentityModel.Protocol.Extensions.pdb
+C:\Users\keleung\OneDrive\Documents\Visual Studio 2015\Projects\Microsoft\TE Projects\FridgeBot\fridgeBot\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\keleung\OneDrive\Documents\Visual Studio 2015\Projects\Microsoft\TE Projects\FridgeBot\fridgeBot\bin\Microsoft.Rest.ClientRuntime.xml
+C:\Users\keleung\OneDrive\Documents\Visual Studio 2015\Projects\Microsoft\TE Projects\FridgeBot\fridgeBot\bin\Microsoft.Threading.Tasks.xml
+C:\Users\keleung\OneDrive\Documents\Visual Studio 2015\Projects\Microsoft\TE Projects\FridgeBot\fridgeBot\bin\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\keleung\OneDrive\Documents\Visual Studio 2015\Projects\Microsoft\TE Projects\FridgeBot\fridgeBot\bin\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\keleung\OneDrive\Documents\Visual Studio 2015\Projects\Microsoft\TE Projects\FridgeBot\fridgeBot\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\keleung\OneDrive\Documents\Visual Studio 2015\Projects\Microsoft\TE Projects\FridgeBot\fridgeBot\bin\Newtonsoft.Json.xml
+C:\Users\keleung\OneDrive\Documents\Visual Studio 2015\Projects\Microsoft\TE Projects\FridgeBot\fridgeBot\bin\System.IdentityModel.Tokens.Jwt.pdb
+C:\Users\keleung\OneDrive\Documents\Visual Studio 2015\Projects\Microsoft\TE Projects\FridgeBot\fridgeBot\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\keleung\OneDrive\Documents\Visual Studio 2015\Projects\Microsoft\TE Projects\FridgeBot\fridgeBot\bin\System.Net.Http.Extensions.xml
+C:\Users\keleung\OneDrive\Documents\Visual Studio 2015\Projects\Microsoft\TE Projects\FridgeBot\fridgeBot\bin\System.Net.Http.Formatting.xml
+C:\Users\keleung\OneDrive\Documents\Visual Studio 2015\Projects\Microsoft\TE Projects\FridgeBot\fridgeBot\bin\System.Net.Http.Primitives.xml
+C:\Users\keleung\OneDrive\Documents\Visual Studio 2015\Projects\Microsoft\TE Projects\FridgeBot\fridgeBot\bin\System.Web.Http.xml
+C:\Users\keleung\OneDrive\Documents\Visual Studio 2015\Projects\Microsoft\TE Projects\FridgeBot\fridgeBot\bin\System.Web.Http.WebHost.xml
+C:\Users\keleung\OneDrive\Documents\Visual Studio 2015\Projects\Microsoft\TE Projects\FridgeBot\fridgeBot\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Users\keleung\OneDrive\Documents\Visual Studio 2015\Projects\Microsoft\TE Projects\FridgeBot\fridgeBot\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Users\keleung\OneDrive\Documents\Visual Studio 2015\Projects\Microsoft\TE Projects\FridgeBot\fridgeBot\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Users\keleung\OneDrive\Documents\Visual Studio 2015\Projects\Microsoft\TE Projects\FridgeBot\fridgeBot\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Users\keleung\OneDrive\Documents\Visual Studio 2015\Projects\Microsoft\TE Projects\FridgeBot\fridgeBot\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Users\keleung\OneDrive\Documents\Visual Studio 2015\Projects\Microsoft\TE Projects\FridgeBot\fridgeBot\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Users\keleung\OneDrive\Documents\Visual Studio 2015\Projects\Microsoft\TE Projects\FridgeBot\fridgeBot\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Users\keleung\OneDrive\Documents\Visual Studio 2015\Projects\Microsoft\TE Projects\FridgeBot\fridgeBot\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Users\keleung\OneDrive\Documents\Visual Studio 2015\Projects\Microsoft\TE Projects\FridgeBot\fridgeBot\obj\Debug\fridgeBot.csproj.App.config
+C:\Users\keleung\OneDrive\Documents\Visual Studio 2015\Projects\Microsoft\TE Projects\FridgeBot\fridgeBot\obj\Debug\fridgeBot.csprojResolveAssemblyReference.cache
+C:\Users\keleung\OneDrive\Documents\Visual Studio 2015\Projects\Microsoft\TE Projects\FridgeBot\fridgeBot\obj\Debug\Bot Application1.dll
+C:\Users\keleung\OneDrive\Documents\Visual Studio 2015\Projects\Microsoft\TE Projects\FridgeBot\fridgeBot\obj\Debug\Bot Application1.pdb
+C:\Users\keleung\OneDrive\Documents\Visual Studio 2015\Projects\Microsoft\TE Projects\FridgeBot\fridgeBot\bin\RestSharp.dll
+C:\Users\keleung\OneDrive\Documents\Visual Studio 2015\Projects\Microsoft\TE Projects\FridgeBot\fridgeBot\bin\Twilio.Api.dll
+C:\Users\keleung\OneDrive\Documents\Visual Studio 2015\Projects\Microsoft\TE Projects\FridgeBot\fridgeBot\bin\Twilio.Api.pdb
+C:\Users\keleung\OneDrive\Documents\Visual Studio 2015\Projects\Microsoft\TE Projects\FridgeBot\fridgeBot\bin\Twilio.Api.xml
+C:\Users\keleung\Documents\GitHub\Microsoft\FridgeBot\fridgeBot\bin\Bot Application1.dll.config
+C:\Users\keleung\Documents\GitHub\Microsoft\FridgeBot\fridgeBot\bin\Bot Application1.dll
+C:\Users\keleung\Documents\GitHub\Microsoft\FridgeBot\fridgeBot\bin\Bot Application1.pdb
+C:\Users\keleung\Documents\GitHub\Microsoft\FridgeBot\fridgeBot\bin\Autofac.dll
+C:\Users\keleung\Documents\GitHub\Microsoft\FridgeBot\fridgeBot\bin\Chronic.dll
+C:\Users\keleung\Documents\GitHub\Microsoft\FridgeBot\fridgeBot\bin\Microsoft.Bot.Builder.dll
+C:\Users\keleung\Documents\GitHub\Microsoft\FridgeBot\fridgeBot\bin\Microsoft.Bot.Connector.DirectLine.dll
+C:\Users\keleung\Documents\GitHub\Microsoft\FridgeBot\fridgeBot\bin\Microsoft.Bot.Connector.dll
+C:\Users\keleung\Documents\GitHub\Microsoft\FridgeBot\fridgeBot\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Users\keleung\Documents\GitHub\Microsoft\FridgeBot\fridgeBot\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\keleung\Documents\GitHub\Microsoft\FridgeBot\fridgeBot\bin\Microsoft.Threading.Tasks.dll
+C:\Users\keleung\Documents\GitHub\Microsoft\FridgeBot\fridgeBot\bin\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\keleung\Documents\GitHub\Microsoft\FridgeBot\fridgeBot\bin\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\keleung\Documents\GitHub\Microsoft\FridgeBot\fridgeBot\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\keleung\Documents\GitHub\Microsoft\FridgeBot\fridgeBot\bin\Mono.HttpUtility.dll
+C:\Users\keleung\Documents\GitHub\Microsoft\FridgeBot\fridgeBot\bin\Newtonsoft.Json.dll
+C:\Users\keleung\Documents\GitHub\Microsoft\FridgeBot\fridgeBot\bin\RestSharp.dll
+C:\Users\keleung\Documents\GitHub\Microsoft\FridgeBot\fridgeBot\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\keleung\Documents\GitHub\Microsoft\FridgeBot\fridgeBot\bin\System.Net.Http.Extensions.dll
+C:\Users\keleung\Documents\GitHub\Microsoft\FridgeBot\fridgeBot\bin\System.Net.Http.Formatting.dll
+C:\Users\keleung\Documents\GitHub\Microsoft\FridgeBot\fridgeBot\bin\System.Net.Http.Primitives.dll
+C:\Users\keleung\Documents\GitHub\Microsoft\FridgeBot\fridgeBot\bin\System.Web.Http.dll
+C:\Users\keleung\Documents\GitHub\Microsoft\FridgeBot\fridgeBot\bin\System.Web.Http.WebHost.dll
+C:\Users\keleung\Documents\GitHub\Microsoft\FridgeBot\fridgeBot\bin\Twilio.Api.dll
+C:\Users\keleung\Documents\GitHub\Microsoft\FridgeBot\fridgeBot\bin\unirest-net.dll
+C:\Users\keleung\Documents\GitHub\Microsoft\FridgeBot\fridgeBot\bin\Autofac.xml
+C:\Users\keleung\Documents\GitHub\Microsoft\FridgeBot\fridgeBot\bin\Microsoft.Bot.Builder.xml
+C:\Users\keleung\Documents\GitHub\Microsoft\FridgeBot\fridgeBot\bin\Microsoft.Bot.Connector.xml
+C:\Users\keleung\Documents\GitHub\Microsoft\FridgeBot\fridgeBot\bin\Microsoft.IdentityModel.Protocol.Extensions.pdb
+C:\Users\keleung\Documents\GitHub\Microsoft\FridgeBot\fridgeBot\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\keleung\Documents\GitHub\Microsoft\FridgeBot\fridgeBot\bin\Microsoft.Rest.ClientRuntime.xml
+C:\Users\keleung\Documents\GitHub\Microsoft\FridgeBot\fridgeBot\bin\Microsoft.Threading.Tasks.xml
+C:\Users\keleung\Documents\GitHub\Microsoft\FridgeBot\fridgeBot\bin\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\keleung\Documents\GitHub\Microsoft\FridgeBot\fridgeBot\bin\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\keleung\Documents\GitHub\Microsoft\FridgeBot\fridgeBot\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\keleung\Documents\GitHub\Microsoft\FridgeBot\fridgeBot\bin\Newtonsoft.Json.xml
+C:\Users\keleung\Documents\GitHub\Microsoft\FridgeBot\fridgeBot\bin\System.IdentityModel.Tokens.Jwt.pdb
+C:\Users\keleung\Documents\GitHub\Microsoft\FridgeBot\fridgeBot\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\keleung\Documents\GitHub\Microsoft\FridgeBot\fridgeBot\bin\System.Net.Http.Extensions.xml
+C:\Users\keleung\Documents\GitHub\Microsoft\FridgeBot\fridgeBot\bin\System.Net.Http.Formatting.xml
+C:\Users\keleung\Documents\GitHub\Microsoft\FridgeBot\fridgeBot\bin\System.Net.Http.Primitives.xml
+C:\Users\keleung\Documents\GitHub\Microsoft\FridgeBot\fridgeBot\bin\System.Web.Http.xml
+C:\Users\keleung\Documents\GitHub\Microsoft\FridgeBot\fridgeBot\bin\System.Web.Http.WebHost.xml
+C:\Users\keleung\Documents\GitHub\Microsoft\FridgeBot\fridgeBot\bin\Twilio.Api.pdb
+C:\Users\keleung\Documents\GitHub\Microsoft\FridgeBot\fridgeBot\bin\Twilio.Api.xml
+C:\Users\keleung\Documents\GitHub\Microsoft\FridgeBot\fridgeBot\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Users\keleung\Documents\GitHub\Microsoft\FridgeBot\fridgeBot\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Users\keleung\Documents\GitHub\Microsoft\FridgeBot\fridgeBot\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Users\keleung\Documents\GitHub\Microsoft\FridgeBot\fridgeBot\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Users\keleung\Documents\GitHub\Microsoft\FridgeBot\fridgeBot\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Users\keleung\Documents\GitHub\Microsoft\FridgeBot\fridgeBot\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Users\keleung\Documents\GitHub\Microsoft\FridgeBot\fridgeBot\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Users\keleung\Documents\GitHub\Microsoft\FridgeBot\fridgeBot\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Users\keleung\Documents\GitHub\Microsoft\FridgeBot\fridgeBot\obj\Debug\fridgeBot.csproj.App.config
+C:\Users\keleung\Documents\GitHub\Microsoft\FridgeBot\fridgeBot\obj\Debug\fridgeBot.csprojResolveAssemblyReference.cache
+C:\Users\keleung\Documents\GitHub\Microsoft\FridgeBot\fridgeBot\obj\Debug\Bot Application1.dll
+C:\Users\keleung\Documents\GitHub\Microsoft\FridgeBot\fridgeBot\obj\Debug\Bot Application1.pdb
